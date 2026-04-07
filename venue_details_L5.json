@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Zeppelin",
+  "address": "San Francisco's Union Square neighborhood",
+  "capacity": 300,
+  "booking_status": "Available"
+}
